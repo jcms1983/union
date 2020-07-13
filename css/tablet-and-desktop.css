@@ -230,9 +230,10 @@ h1.title {
 
 .onecolumn-container {
   padding: 50px 30px;
-  border: 1px solid #ccc;
-  width: 100%;
-  margin: 0px auto;
+
+  border-left-color: white;
+  border-rightt-color: white;
+
   background: #fff
 }
 
